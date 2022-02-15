@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy Carolina</h1>
-<h3 align="center">Apasionada por el Desarrollo FullStack, actualmente en Santiago de Chile</h3>
+<h1 align="center">Hi 👋, I'm Carolina</h1>
+<h3 align="center">A passionate full-stack developer from Chile</h3>
 
 - 🔭 I’m currently working on [Walk-Dogs App](https://github.com/CaroMokka/Proyecto-Final)
 
-- 🌱 I’m currently learning **React.js - Python - Sql**
+- 🌱 I’m currently learning **React.js - Python - Javascript- Flask - SQL**
 
-- 💬 Ask me about **Css3, react.js, python, Bootstrap, Flask**
+- 💬 Ask me about **CSS3, react.js, python, Bootstrap, Javascript - 3D - Animation - 2D**
 
 - 📫 How to reach me **ci.arayagonzalez@gmail.com**
 
@@ -22,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caromokka&show_icons=true&locale=en&layout=compact" alt="caromokka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caromokka&show_icons=true&locale=en" alt="caromokka" /></p>
+
