@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack Javascript**
 
-- 💬 Ask me about **HTML - CSS3 - Bootstrap - JavaScript - Reactjs - Typescript - REST API - Nodejs - Express - Git - Github - Postgress - SQL**
+- 💬 Ask me about **HTML - CSS3 - Bootstrap - JavaScript - Reactjs - REST API - Nodejs - Express - Git - Github - Postgress - SQL**
 
 - 📫 How to reach me **ci.arayagonzalez@gmail.com**
 
