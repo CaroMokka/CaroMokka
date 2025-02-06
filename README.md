@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Fullstack Javascript**
 
-- 💬 Ask me about **HTML - CSS3 - Bootstrap - JavaScript - Reactjs - REST API - Nodejs - Express - Git - Github - Postgress - SQL**
+- 💬 Ask me about **HTML - CSS3 - Bootstrap - Javascript - Typescript - Reactjs - REST API - Nodejs - Express - Git - Github - Postgress - SQL**
 
 - 📫 How to reach me **ci.arayagonzalez@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/carolina-araya-gonzalez](linkedin.com/in/carolina-araya-gonzalez)
+- 📄 Know about my experiences [linkedin.com/in/carolina-araya-gonzalez](https://www.linkedin.com/in/carolina-araya-g/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
